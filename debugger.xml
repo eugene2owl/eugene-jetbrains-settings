@@ -1,7 +1,4 @@
 <application>
-  <component name="DebuggerSettings">
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapNever" />
-  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />

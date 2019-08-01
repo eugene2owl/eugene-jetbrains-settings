@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="console.log // TODO remove" value="console.log('PRINT ' + $SELECTION$); // TODO remove" description="Wraps selection or string into console.log() and adds reminder to remove." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
