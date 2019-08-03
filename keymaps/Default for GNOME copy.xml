@@ -1,0 +1,7 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="TodoViewGroupByFlattenPackage" />
+</keymap>
