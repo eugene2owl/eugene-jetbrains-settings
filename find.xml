@@ -10,8 +10,9 @@
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
+    <mask>*.java</mask>
     <mask>*.kt</mask>
   </component>
 </application>
