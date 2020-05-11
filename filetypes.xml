@@ -1,16 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping pattern="dump-clm-quote-tenant1-v-policy-view-tree-filled-by-all-entities" type="PLAIN_TEXT" />
-      <mapping pattern="Activatable" type="PLAIN_TEXT" />
       <mapping pattern="dump-clm-change-tenant1-v1-publish" type="PLAIN_TEXT" />
+      <mapping pattern="Activatable" type="PLAIN_TEXT" />
       <mapping pattern="QuestionSetDivisionCreateDto" type="PLAIN_TEXT" />
+      <mapping pattern="dump-clm-quote-tenant1-v-policy-view-tree-filled-by-all-entities" type="PLAIN_TEXT" />
       <mapping pattern="npm-mixin-test" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
