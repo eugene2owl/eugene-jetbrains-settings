@@ -8,8 +8,8 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
