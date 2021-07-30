@@ -26,4 +26,17 @@
       </list>
     </option>
   </component>
+  <component name="updateLambdaState">
+    <option name="configs">
+      <map>
+        <entry key="arn:aws:lambda:us-west-2:423352658953:function:AwsServerlessLambda">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="eugene-ivanov-training-web-app" />
+            </UpdateConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
