@@ -29,6 +29,13 @@
   <component name="updateLambdaState">
     <option name="configs">
       <map>
+        <entry key="arn:aws:lambda:eu-west-2:423352658953:function:Imageholder-uploads-batch-notifier">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="cf-templates-16dsvbtfx7fso-eu-west-2" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-west-2:423352658953:function:LambdaSqsSample">
           <value>
             <UpdateConfig>
